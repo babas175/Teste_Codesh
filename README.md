@@ -39,4 +39,10 @@ Este é um teste para demonstrar suas habilidades como Desenvolvedor Back-end. O
    ```bash
    git clone <URL_DO_REPOSITORIO>
    cd <NOME_DO_REPOSITORIO>
+   criar um banco de dados postgres chamado codesh
+   criar um arquivo .env na raiz do projeto com essas palavras "JWT_SECRET=Chapeco2022"
    npm install
+   npm start
+   npm run test
+   Abrir o postman http://localhost:3000/auth/signup para começar a testar com essa primeira rota post
+
